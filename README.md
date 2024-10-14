@@ -1,27 +1,27 @@
 <h1> Machine Learning Practice</h1>
-<h2>Structure:<h2>
-<li><ol>Algorithms:</ol>
-    <li><ul>Supervised Alogrithms: <ul>
-        <li><ul>Simple Linear Regression</ul>
-            <ul>Multiple Linear Regression</ul>
-            <ul>Polynomial Regression</ul>
-            <ul>Logistic Regression</ul>
-            <ul>Naive Bayes</ul>
-            <ul>Support Vector Machine</ul>
-            <ul>Decision Tree</ul>
-            <ul>Random Forest</ul>
-            <ul> AdaBoost</ul>
-            <ul>Gradient Boosting</ul>
-            <ul> Xgboost</ul></li>
-        <ul>Unsupervied Algorithms:</ul>
-    </li>
-    <ol>Datasets</ol>
-    <li><ul>Algerian Forest Fire</ul>
-        <ul>Height-Weight</ul>
-        <ul>Economic Index</ul>
-        <ul> Titanic Survival</ul>
-        <ul> Travel- For Holiday Package Predicition</ul>
-        <ul>Car Dekho Dataset - Car Price Predicition</ul>
-    </li>
-    <ol> Pickle - Pickle File of Algorithms Model</ol>
-</li>
+<h2>Structure:</h2>
+<ol><li>Algorithms:</li>
+    <ul><ol>Supervised Alogrithms: <ul>
+        <li><li>Simple Linear Regression</li>
+            <li>Multiple Linear Regression</li>
+            <li>Polynomial Regression</li>
+            <li>Logistic Regression</li>
+            <li>Naive Bayes</li>
+            <li>Support Vector Machine</li>
+            <li>Decision Tree</li>
+            <li>Random Forest</li>
+            <li> AdaBoost</li>
+            <li>Gradient Boosting</li>
+            <li> Xgboost</li></li>
+        <li>Unsupervied Algorithms:</li>
+    </ul>
+    <li>Datasets</li>
+    <ul><li>Algerian Forest Fire</li>
+        <li>Height-Weight</li>
+        <li>Economic Index</li>
+        <li> Titanic Survival</li>
+        <li> Travel- For Holiday Package Predicition</li>
+        <li>Car Dekho Dataset - Car Price Predicition</li>
+    </ul>
+    <li> Pickle - Pickle File of Algorithms Model</li>
+</ol>
