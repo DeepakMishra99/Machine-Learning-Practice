@@ -1,8 +1,8 @@
 <h1> Machine Learning Practice</h1>
 <h2>Structure:</h2>
 <ol><li>Algorithms:</li>
-    <ul><ol>Supervised Alogrithms: <ul>
-        <li><li>Simple Linear Regression</li>
+    <ul><li>Supervised Alogrithms: </li>
+        <ul<li>Simple Linear Regression</li>
             <li>Multiple Linear Regression</li>
             <li>Polynomial Regression</li>
             <li>Logistic Regression</li>
@@ -12,7 +12,7 @@
             <li>Random Forest</li>
             <li> AdaBoost</li>
             <li>Gradient Boosting</li>
-            <li> Xgboost</li></li>
+            <li> Xgboost</li></ul>
         <li>Unsupervied Algorithms:</li>
     </ul>
     <li>Datasets</li>
