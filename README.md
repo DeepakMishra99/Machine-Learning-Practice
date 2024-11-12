@@ -63,12 +63,21 @@
 <ul>
   <li><strong>Description</strong>: Predicting housing prices based on various economic indicators.</li>
   <li><strong>Algorithm</strong>: Multiple Linear Regression</li>
+   <li><strong>Evaluation (R² Score) : </strong>:0.58</li>
 </ul>
 
 <h3>8. Forest Fire Weather Index Prediction</h3>
 <ul>
   <li><strong>Description</strong>: Predicting Forest FWI value from Algerian Forest Fire Datasets .</li>
   <li><strong>Algorithm</strong>: Linear Regression, Lasso(L1 Regularization), Ridge(L1 Regularization) and ElasticNet</li>
+  <li><strong>Evaluation (R² Scores)</strong>:
+    <ul>
+      <li>Linear Regression : 0.98</li>
+      <li>Lasso Regression : 0.94</li>
+      <li>Ridge Regression : 0.98</li>
+      <li>Elaticnet : 0.87</li>
+    </ul>
+  </li>
 </ul>
 
 <h2>Implemented Algorithms</h2>
