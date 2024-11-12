@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>MACHINE LEARNING JOURNEY REPOSITORY</title>
-</head>
-<body>
 
 <h1>MACHINE LEARNING JOURNEY REPOSITORY</h1>
 <p>Welcome to my <strong>Machine Learning Journey</strong> repository! This repository showcases a variety of machine learning projects, encompassing both supervised and unsupervised techniques. Here, I demonstrate end-to-end machine learning development, including data collection, manipulation, exploratory data analysis (EDA), and feature engineering. This repository serves as a testament to my commitment to mastering machine learning concepts and practical applications.</p>
